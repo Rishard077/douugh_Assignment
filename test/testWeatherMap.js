@@ -32,7 +32,7 @@ describe('Weather map Api Test', () => {
         });
     });
 
-    it('Verify Temprature', () => {
+    it('Verify Temprature is Greater Than 21 and Weather is Clear', () => {
         return request.get('/data/2.5/onecall').query({
             lat: -33.865143,
             lon: 151.209900,
