@@ -1,7 +1,6 @@
-#  This project uses chai ,mocha,superset
-## for schema vlaidation uses chai-json-schema
-## Set up
-## Install all dependancies on package json 
-## navigate to test folder 
-## use npm test  command
-## prerequesties install node js in your local machine
+#  Basic Weather API tests
+### prerequesties install node js in your local machine
+#### Set up
+1. Install all dependancies on package json 
+2. Navigate to test folder 
+3. Use `npm test`  command to run the tests
